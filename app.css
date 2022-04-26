@@ -1,0 +1,23 @@
+@media screen and (max-width: 700px){
+    .form_{
+        width: 100% !important;
+        margin-top: 70px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .forgot-svg-img{
+        display: none;
+    }
+}
+
+.editBtn{
+    font-size: 12px !important;
+    position: relative;
+    top: -5px;
+    background-color: rgba(0, 0, 0, 0.63) !important;
+}
+
+.editBtn:hover{
+    background-color: rgba(0, 0, 0, 0.849) !important;
+}
